@@ -26,5 +26,5 @@ A collection of academic, personal, and exploratory projects documenting my jour
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn - https://www.linkedin.com/in/charuka-raja-7261b0280/
-- 📧 Email - charuka2603@gmail.com
+- 💼 LinkedIn: [Charuka Raja](https://www.linkedin.com/in/charuka-raja-7261b0280/)
+- 📧 Email: charuka2603@gmail.com
