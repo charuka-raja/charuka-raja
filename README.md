@@ -1,7 +1,5 @@
 # Hey, I'm Charuka 👋
 
-Welcome to my little corner of GitHub!
-
 I'm currently pursuing an MSc in Business Analytics at Alliance Manchester Business School.
 
 As an Information Science & Engineering graduate, I've always enjoyed building software and solving technical problems. I started my career as a Graduate Software Engineer Trainee at Manhattan Associates, where I worked on enterprise warehouse management solutions.
