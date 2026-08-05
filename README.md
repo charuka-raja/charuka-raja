@@ -1,4 +1,4 @@
-# Hey, I'm Charuka 👋
+# HI, I'm Charuka 👋
 
 I'm currently pursuing an MSc in Business Analytics at Alliance Manchester Business School.
 
