@@ -4,7 +4,7 @@ I'm currently pursuing an MSc in Business Analytics at Alliance Manchester Busin
 
 As an Information Science & Engineering graduate, I've always enjoyed building software and solving technical problems. I started my career as a Graduate Software Engineer Trainee at Manhattan Associates, where I worked on enterprise warehouse management solutions.
 
-Although I enjoyed the technical side of software engineering, I found myself drawn to the business decisions that shape great products. That curiosity led me to pursue Business Analytics, giving me the opportunity to explore the intersection of business, technology, and data.
+Although I enjoyed the technical side of software engineering, I found myself drawn to the business decisions that shape great products. That curiosity led me to pursue Business Analytics to explore the intersection of business, technology, and data.
 
 ## 💡 What I'm Interested In
 
