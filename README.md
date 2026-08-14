@@ -1,10 +1,12 @@
 # Hi, I'm Charuka 👋
 
-I'm currently pursuing an MSc in Business Analytics & AI at Alliance Manchester Business School.
+I’m currently pursuing an MSc in Business Analytics & AI at Alliance Manchester Business School.
 
-As an Information Science & Engineering graduate, I've always enjoyed building software and solving technical problems. I started my career as a Graduate Software Engineer Trainee at Manhattan Associates, where I worked on enterprise warehouse management solutions.
+As an Information Science & Engineering graduate, I’ve always enjoyed building software and solving technical problems. I started my career as a Graduate Software Engineer Trainee at Manhattan Associates, where I worked on enterprise warehouse management solutions.
 
-Although I enjoyed the technical side of software engineering, I found myself drawn to the business decisions that shape great products. That curiosity led me to pursue Business Analytics to explore the intersection of business, technology, and data.
+My experience working with enterprise software showed me how technology can address real operational challenges and create better business outcomes. It made me curious about how analytics could be used to help organisations solve meaningful problems, shape products, and make better business decisions. This curiosity led me to pursue Business Analytics, where I’m deepening my knowledge of business analytics, machine learning, mathematical optimisation, business forecasting, and AI.ing the intersection of business, technology, and data.
+
+Currently open to internship opportunities and graduate roles in the UK, focusing on product & business analysis.
 
 ##  What I'm Interested In
 
