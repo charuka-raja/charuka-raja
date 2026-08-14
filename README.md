@@ -6,17 +6,17 @@ As an Information Science & Engineering graduate, I've always enjoyed building s
 
 Although I enjoyed the technical side of software engineering, I found myself drawn to the business decisions that shape great products. That curiosity led me to pursue Business Analytics to explore the intersection of business, technology, and data.
 
-## 💡 What I'm Interested In
+##  What I'm Interested In
 
 - Product Strategy
 - Data-Driven Decision Making
 - AI for Business
 
-## 📂 What You'll Find Here
+##  What You'll Find Here
 
 A collection of academic, personal, and exploratory projects documenting my journey through business analytics, AI, and product.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Programming:** Python • SQL
 
@@ -24,7 +24,7 @@ A collection of academic, personal, and exploratory projects documenting my jour
 
 **Tools:** Git • GitHub • Jupyter Notebook • VS Code
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💼 LinkedIn: [Charuka Raja](https://www.linkedin.com/in/charuka-raja)
-- 📧 Email: charuka2603@gmail.com
+-  LinkedIn: [Charuka Raja](https://www.linkedin.com/in/charuka-raja)
+-  Email: charuka2603@gmail.com
